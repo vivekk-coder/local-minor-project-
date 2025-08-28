@@ -30,3 +30,8 @@
     border: 5px solid #04102c;
     border-radius: 20px;
 }
+.box1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
